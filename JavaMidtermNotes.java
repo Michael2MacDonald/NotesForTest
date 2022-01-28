@@ -6,6 +6,28 @@
 
 // If you are using Eclipse you can press Ctrl Shift O to auto import stuff 
 
+//Getting started:
+// 1. Start Eclipse.
+// 2. Create a new Java Project:
+// 	File->New->Project.
+// 	Select "Java" in the category list.
+// 	Select "Java Project" in the project list. Click "Next".
+// 	Enter a project name into the Project name field, for example, "Hello World Project".
+// 	Click "Finish"--It will ask you if you want the Java perspective to open. (You do.)
+// 3. Create a new Java class:
+// 	Click the "Create a Java Class" button in the toolbar. (This is the icon below "Run" and "Window" with a tooltip that says "New Java Class.")
+// 	Enter "HelloWorld" into the Name field.
+// 	Click the checkbox indicating that you would like Eclipse to create a "public static void main(String[] args)" method.
+// 	Click "Finish".
+// 4. A Java editor for HelloWorld.java will open. In the main method enter the following line.
+//      System.out.println("Hello World");
+// 5. Save using ctrl-s. This automatically compiles HelloWorld.java.
+// 6. Click the "Run" button in the toolbar (looks like a little man running).
+// 7. You will be prompted to create a Launch configuration. Select "Java Application" and click "New".
+// 8. Click "Run" to run the Hello World program. The console will open and display "Hello World".
+
+// String.replaceAll
+
 import java.util.*; 
 import java.io.*;
 
